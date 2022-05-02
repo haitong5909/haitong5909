@@ -1,7 +1,7 @@
 ### 我是海瞳
 
 - 👋 Hi，我是学前端的学生，目前在学中
-- 🏡 作品： <a href="haitong5908.github.io/pozhan">小破站</a>
+- 🏡 作品： <a href="https://haitong5909.github.io/pozhan">小破站</a>
 - 💬 微信：y27724611159
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
